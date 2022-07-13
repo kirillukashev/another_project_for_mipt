@@ -1,4 +1,4 @@
-# another_project_for_mipt
+# another_projects_for_mipt
 
 Здравствуйте, Уважаемая дирекция МФТИ  
 
